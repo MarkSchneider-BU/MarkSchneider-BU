@@ -1,11 +1,11 @@
 # 💫 About Me:
-Hi, I'm Mark Schneider,
+# Hi, I'm Mark Schneider
 
-I'm pursuing a master's degree in Computer Science and Artificial Intelligence at Boston University.
+I'm pursuing a master's degree in Computer Science and Artificial Intelligence at Boston University and hold a bachelor's degree in Informatics from Indiana University.
 
 I bring 20 years of experience in automation engineering, design, and project management at Valeo. My background also includes working at the startup IgoDigital.
 
-I'm passionate about technology and programming, with a particular interest in applying software and AI to practical engineering challenges.
+I'm passionate about technology and programming, particularly applying software and AI to practical engineering challenges. My current interests include deepening my understanding of PID control loops and exploring effective methods for testing and tuning them in the field. I'm also working with a humanoid robot, exploring how to train its movements and help it interpret visual cues to respond appropriately to its surroundings.
 
 In the evenings, I teach industrial controls at Ivy Tech Community College, covering programmable logic controllers (PLCs), robotics, and motor controls.
 
