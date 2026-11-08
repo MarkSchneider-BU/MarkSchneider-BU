@@ -11,6 +11,9 @@ In the evenings, I teach industrial controls at Ivy Tech Community College, cove
 
 Outside of work, teaching, and academics, I enjoy running, traveling, and meeting new people.
 
+[![Resume](https://img.shields.io/badge/Resume-View_PDF-008080?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/MarkSchneider-BU/MarkSchneider-BU/blob/main/Mark%20Schneider%20Resume.pdf)
+[![Gmail](https://img.shields.io/badge/Gmail-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mbschnei@bu.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mark-schneider-535a5b10/)
 
 <!--
 **U93514701/U93514701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
